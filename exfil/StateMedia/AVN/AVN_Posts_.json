@@ -1,1 +1,0 @@
-{"code":"rest_invalid_param","message":"Par\u00e1metro(s) no v\u00e1lido(s): page","data":{"status":400,"params":{"page":"page no es del tipo integer."},"details":{"page":{"code":"rest_invalid_type","message":"page no es del tipo integer.","data":{"param":"page"}}}}}
