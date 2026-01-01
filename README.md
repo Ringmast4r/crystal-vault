@@ -1,18 +1,22 @@
 # Crystal Vault
 
-![Wanted Poster](assets/Wanted%20Poster.PNG)
+<p align="center">
+  <img src="assets/Wanted%20Poster.PNG" alt="Wanted Poster" width="600">
+</p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fringmast4r%2Fcrystal-vault&count_bg=%23CF142B&title_bg=%23555555&icon=&emoji=&title=VISITORS&edge_flat=false)
-![GitHub repo size](https://img.shields.io/github/repo-size/ringmast4r/crystal-vault)
-![GitHub last commit](https://img.shields.io/github/last-commit/ringmast4r/crystal-vault)
-![GitHub Pages](https://img.shields.io/website?url=https%3A%2F%2Fringmast4r.github.io%2Fcrystal-vault%2F&label=GitHub%20Pages)
-![License](https://img.shields.io/github/license/ringmast4r/crystal-vault)
-![Stars](https://img.shields.io/github/stars/ringmast4r/crystal-vault)
-![Forks](https://img.shields.io/github/forks/ringmast4r/crystal-vault)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fringmast4r%2Fcrystal-vault&label=Visitors&countColor=%23CF142B)
+![GitHub repo size](https://img.shields.io/github/repo-size/ringmast4r/crystal-vault?color=%23FFCC00&label=Repo%20Size)
+![GitHub stars](https://img.shields.io/github/stars/ringmast4r/crystal-vault?style=flat&color=%23FFCC00)
+![GitHub forks](https://img.shields.io/github/forks/ringmast4r/crystal-vault?style=flat&color=%2300247D)
+![GitHub last commit](https://img.shields.io/github/last-commit/ringmast4r/crystal-vault?color=%23CF142B)
+![GitHub issues](https://img.shields.io/github/issues/ringmast4r/crystal-vault?color=%23FFCC00)
+![License](https://img.shields.io/badge/License-Public%20Domain-green)
 
-Venezuela OSINT Intelligence Dashboard documenting the regime's centralized surveillance infrastructure and exposed government systems.
+**Documenting Venezuela's surveillance infrastructure through their own open APIs.**
 
-**Live Dashboard:** [https://ringmast4r.github.io/crystal-vault/](https://ringmast4r.github.io/crystal-vault/)
+> *The regime built a vault. They forgot to lock it.*
+
+## [**LIVE DASHBOARD**](https://ringmast4r.github.io/crystal-vault/) | [**GLOSSARY**](https://ringmast4r.github.io/crystal-vault/glossary.html) | [**TIMELINE**](https://ringmast4r.github.io/crystal-vault/timeline.html)
 
 ---
 
