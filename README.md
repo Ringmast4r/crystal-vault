@@ -1,5 +1,7 @@
 # Crystal Vault
 
+![Wanted Poster](assets/Wanted%20Poster.PNG)
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fringmast4r%2Fcrystal-vault&count_bg=%23CF142B&title_bg=%23555555&icon=&emoji=&title=VISITORS&edge_flat=false)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ringmast4r/crystal-vault)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ringmast4r/crystal-vault)
@@ -7,8 +9,6 @@
 ![License](https://img.shields.io/github/license/ringmast4r/crystal-vault)
 ![Stars](https://img.shields.io/github/stars/ringmast4r/crystal-vault)
 ![Forks](https://img.shields.io/github/forks/ringmast4r/crystal-vault)
-
-![Wanted Poster](assets/Wanted%20Poster.PNG)
 
 Venezuela OSINT Intelligence Dashboard documenting the regime's centralized surveillance infrastructure and exposed government systems.
 
