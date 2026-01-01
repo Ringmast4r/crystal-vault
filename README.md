@@ -1,5 +1,6 @@
 # Crystal Vault
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fringmast4r%2Fcrystal-vault&label=VISITORS&countColor=%23CF142B)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ringmast4r/crystal-vault)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ringmast4r/crystal-vault)
 ![GitHub Pages](https://img.shields.io/website?url=https%3A%2F%2Fringmast4r.github.io%2Fcrystal-vault%2F&label=GitHub%20Pages)
