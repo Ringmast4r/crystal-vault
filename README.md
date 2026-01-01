@@ -1,6 +1,6 @@
 # Crystal Vault
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fringmast4r%2Fcrystal-vault&label=VISITORS&countColor=%23CF142B)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fringmast4r%2Fcrystal-vault&count_bg=%23CF142B&title_bg=%23555555&icon=&emoji=&title=VISITORS&edge_flat=false)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ringmast4r/crystal-vault)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ringmast4r/crystal-vault)
 ![GitHub Pages](https://img.shields.io/website?url=https%3A%2F%2Fringmast4r.github.io%2Fcrystal-vault%2F&label=GitHub%20Pages)
